@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/countingMachine/static/css/main.073c9b0a.css",
+    "main.js": "/countingMachine/static/js/main.4ab44d2c.js",
+    "static/js/787.700439ed.chunk.js": "/countingMachine/static/js/787.700439ed.chunk.js",
+    "index.html": "/countingMachine/index.html",
+    "main.073c9b0a.css.map": "/countingMachine/static/css/main.073c9b0a.css.map",
+    "main.4ab44d2c.js.map": "/countingMachine/static/js/main.4ab44d2c.js.map",
+    "787.700439ed.chunk.js.map": "/countingMachine/static/js/787.700439ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4ab44d2c.js"
+  ]
+}
